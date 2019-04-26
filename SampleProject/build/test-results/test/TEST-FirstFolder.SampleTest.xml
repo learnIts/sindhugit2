@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FirstFolder.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-13T11:54:14" hostname="EPINHYDW0737" time="0.0">
+  <properties/>
+  <testcase name="test1" classname="FirstFolder.SampleTest" time="0.0"/>
+  <system-out><![CDATA[just testing
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
